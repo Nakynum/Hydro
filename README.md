@@ -1,2 +1,2 @@
 # Hydro
-Hydro is a small Rocket Project
+Hydro, is a small ModelRocket Project
